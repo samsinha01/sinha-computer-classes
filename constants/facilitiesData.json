@@ -1,0 +1,33 @@
+[
+    {
+      "title": "✅ Practical-Based Learning",
+      "description": "We believe the best way to learn is by doing. All our courses are taught with a hands-on approach, using live coding sessions, real-world projects, and development tools used in professional environments.",
+      "color": "#FFF9C4"
+    },
+    {
+      "title": "🎯 100% Job Assistance",
+      "description": "For our career-focused courses like React JS, MERN Stack, Web Development, C/C++, and Python, we offer full job assistance — including resume building, interview preparation, and referrals to hiring companies.",
+      "color":"#C8E6C9"
+    },
+    {
+      "title": "👨‍🏫 Industry-Experienced Instructor",
+      "description": "With over 3 years of real-world experience as a frontend developer and currently working in a product-based tech company, I bring direct industry knowledge, updated practices, and insider tips into the classroom.",
+      "color":"#B3E5FC"
+    },
+    {
+      "title": "🛠️ Live & Real Projects",
+      "description": "Each course includes live projects that simulate actual work environments. By the end of the course, you'll have a portfolio of real applications to showcase your skills.",
+      "color":"#FFE0B2"
+    },
+    {
+      "title": "👨‍🎓 Beginner to Advanced Level",
+      "description": "Whether you're a total beginner or already know the basics, our structured modules help you learn progressively — from fundamentals to frameworks, logic to live deployment.",
+      "color":"#D1C4E9"
+    },
+    {
+      "title": "🧑‍💼 Career-Oriented Curriculum",
+      "description": "We focus on teaching what’s actually used in companies. Our syllabus is updated regularly to match current industry standards and job market demands.",
+      "color":"#FFCDD2"
+    }
+  ]
+  

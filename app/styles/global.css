@@ -1,0 +1,19 @@
+.courseDetails ul{
+    /* list-style-type: disc; */
+    margin-left: 40px;
+}
+.courseDetails p{
+    margin-bottom:15px;
+}
+
+.courseDetails ul li{
+    padding:5px 0px;
+}
+
+.syllabus li{
+    background-image: url('/check.png'); 
+    background-repeat: no-repeat;
+    background-position: 0 6px;
+    background-size: 1rem; 
+    padding-left: 1.5rem;  
+}

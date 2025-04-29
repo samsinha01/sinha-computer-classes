@@ -1,0 +1,997 @@
+[
+  {
+    "id": "1",
+    "name": "DCA",
+    "title": "Diploma in Computer Applications (DCA)",
+    "description": "<p>The <strong>Diploma in Computer Applications (DCA)</strong> is a foundational course that equips students with essential skills in computer operations, software applications, and the internet. Designed for beginners, it combines theoretical knowledge with hands-on practice, preparing students for entry-level IT roles or further education.</p> \n <p>The course begins with <strong>Chapter 1: Fundamentals of Computer</strong>, where students learn about <strong>computer types, organization</strong>, and components like <strong>input, output, and storage devices</strong>. <strong>Chapter 2: Operating System Basics</strong> covers key OS concepts and basic <strong>file and folder management</strong> on platforms like <strong>Windows and Linux</strong></p> \n <p>In the Microsoft Office chapters, students gain proficiency in <strong>Word</strong>, <strong>Excel</strong>, and <strong>PowerPoint</strong>, learning how to create and format documents, manage data with <strong>formulas</strong> and <strong>pivot tables</strong>, and create presentations with <strong>animations</strong> and <strong>multimedia</strong>.</p> \n <p><strong>Chapter 6: Internet and Email</strong> introduces web browsers, <strong>search engines</strong>, and best practices for <strong>email communication</strong>, including <strong>email etiquette</strong> and <strong>attachments</strong>.</p> \n <p>In <strong>Chapter 7: Introduction to Programming</strong>, students learn basic programming concepts, <strong>flowcharts</strong>, and <strong>algorithms</strong> using <strong>C or Python</strong>. <strong>Chapter 8: Computer Security and Ethics</strong> covers <strong>viruses, malware</strong>, and safe browsing practices.</p> \n <p>The course concludes with <strong>Chapter 9: Project Work</strong>, where students complete <strong>MS Office-based projects</strong> and basic <strong>programming tasks</strong>, applying what they've learned. <strong>Chapter 10</strong> extends the learning with topics like <strong>cloud storage</strong>, <strong>collaboration tools</strong>, and an introduction to <strong>freelancing platforms</strong>.</p> \n <p>This course provides a comprehensive introduction to computing, preparing students for <strong>academic growth</strong> or <strong>career opportunities</strong> in the digital world.</p>",
+    "summary": "Covers basic computer operations, MS Office, internet usage, and introductory programming.",
+    "icon": "/icon/dca-icon.png",
+    "syllabus": [
+      {
+        "chapter": "Chapter 1: Fundamentals of Computer",
+        "topics": [
+          "What is a computer?",
+          "Types of computers",
+          "Basic computer organization",
+          "Input, output, and storage devices",
+          "Computer memory (RAM, ROM, cache)"
+        ]
+      },
+      {
+        "chapter": "Chapter 2: Operating System Basics",
+        "topics": [
+          "Introduction to OS",
+          "Types of operating systems",
+          "Basic operations using Windows or Linux",
+          "File and folder management"
+        ]
+      },
+      {
+        "chapter": "Chapter 3: Microsoft Word",
+        "topics": [
+          "Creating and formatting documents",
+          "Working with tables and images",
+          "Page layout and printing",
+          "Mail merge and templates"
+        ]
+      },
+      {
+        "chapter": "Chapter 4: Microsoft Excel",
+        "topics": [
+          "Basics of Excel interface",
+          "Data entry and formatting",
+          "Formulas and functions",
+          "Charts and graphs",
+          "Pivot tables"
+        ]
+      },
+      {
+        "chapter": "Chapter 5: Microsoft PowerPoint",
+        "topics": [
+          "Creating slides and layouts",
+          "Adding multimedia (images, audio, video)",
+          "Slide transitions and animations",
+          "Presentation tips and delivery"
+        ]
+      },
+      {
+        "chapter": "Chapter 6: Internet and Email",
+        "topics": [
+          "Introduction to the internet and web browsers",
+          "Search engines and online research",
+          "Creating and managing email accounts",
+          "Email etiquette and attachments"
+        ]
+      },
+      {
+        "chapter": "Chapter 7: Introduction to Programming",
+        "topics": [
+          "Basic programming concepts",
+          "Flowcharts and algorithms",
+          "Introduction to C or Python syntax",
+          "Writing and executing simple programs"
+        ]
+      },
+      {
+        "chapter": "Chapter 8: Computer Security and Ethics",
+        "topics": [
+          "Viruses and malware",
+          "Antivirus and security tools",
+          "Safe browsing habits",
+          "Digital ethics and privacy"
+        ]
+      },
+      {
+        "chapter": "Chapter 9: Project Work & Practical Applications",
+        "topics": [
+          "MS Office-based mini project",
+          "Internet research project",
+          "Data entry practice",
+          "Basic programming project"
+        ]
+      },
+      {
+        "chapter": "Chapter 10: Additional/Extensible Topics",
+        "topics": [
+          "Typing practice and speed development",
+          "Cloud storage and Google Workspace tools",
+          "Online collaboration tools (Zoom, Meet, Teams)",
+          "Introduction to freelancing platforms"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "BCA",
+    "title": "Bachelor of Computer Applications (BCA)",
+    "description": "<p><strong>Bachelor of Computer Applications (BCA)</strong> is an undergraduate program designed to provide students with a comprehensive understanding of <strong>computer applications</strong> and programming principles. This course equips students with a strong foundation in software development, database management, computer networks, and operating systems. It emphasizes both theoretical knowledge and practical skills, preparing students for various challenges in the field of computer science and technology.</p> <p>The curriculum of the BCA course includes core subjects such as programming languages, data structures, database management systems, and computer networks. Students also gain exposure to emerging technologies like web development, object-oriented programming (OOP), and software engineering methodologies. This course is designed for students who aspire to pursue a career in the tech industry and need to build a solid understanding of how computers and software systems work.</p> <p>In the BCA program, students learn to write and debug programs using languages like C, C++, and Java. They also get hands-on experience with databases, learning to design and manage data systems efficiently. The course also covers key topics in networking, operating systems, and software engineering, giving students a well-rounded skill set that is essential for modern computing environments.</p> <p>Students will also have opportunities to engage in real-time projects and internships, which allow them to apply their knowledge in real-world scenarios and develop problem-solving and critical thinking abilities. This practical approach enhances their technical expertise and prepares them for the demands of the tech industry.</p> <p><strong>Career Opportunities after BCA:</strong></p> <p>Graduates of the BCA program can explore numerous career opportunities in the technology sector. They can pursue roles such as:</p> <ul> <li><strong>Software Developer</strong>: Design, develop, and maintain software applications.</li> <li><strong>Web Developer</strong>: Build and manage websites and web applications.</li> <li><strong>Database Administrator</strong>: Manage databases, ensuring their efficiency and security.</li> <li><strong>Network Administrator</strong>: Oversee network infrastructure and manage connectivity solutions.</li> <li><strong>System Analyst</strong>: Analyze and design IT systems to improve business processes.</li> <li><strong>IT Consultant</strong>: Provide advice and solutions to organizations on how to use technology to meet their business goals.</li> <li><strong>Technical Support Engineer</strong>: Offer support and troubleshoot technical issues for software or hardware products.</li> <li><strong>Cyber Security Analyst</strong>: Ensure the security of information systems and protect against data breaches.</li> </ul> <p>The BCA program also provides a strong foundation for students who want to pursue higher studies in computer science, such as a Master's in Computer Applications (MCA), or other specialized certifications in areas like cloud computing, data science, and artificial intelligence.</p> <p><strong>Note:</strong> This course is a <strong>certification program</strong> and is not a degree-awarding course. Our institute specializes in teaching the core subjects of BCA, providing a practical and theoretical understanding of key areas in computer applications. Upon completion, students will receive certification from our institute, which will demonstrate their proficiency in computer applications and programming but does not equate to a formal degree program.</p>",
+    "summary": "Offers theoretical and practical knowledge in software development, database, and networking.",
+    "icon": "/icon/bca-icon.png",
+    "syllabus": [
+      {
+        "chapter": "Chapter 1: Introduction to Computer Systems",
+        "topics": [
+          "History and evolution of computers",
+          "Basic computer architecture",
+          "Types of computers",
+          "Number systems and conversions"
+        ]
+      },
+      {
+        "chapter": "Chapter 2: Programming in C",
+        "topics": [
+          "Basic structure of C programs",
+          "Variables, data types, and operators",
+          "Control statements (if, switch, loops)",
+          "Functions and recursion",
+          "Arrays, pointers, structures, and file handling"
+        ]
+      },
+      {
+        "chapter": "Chapter 3: Database Management Systems",
+        "topics": [
+          "Introduction to DBMS and RDBMS",
+          "ER diagrams and normalization",
+          "SQL commands and queries",
+          "Transactions and concurrency control",
+          "Database design and implementation"
+        ]
+      },
+      {
+        "chapter": "Chapter 4: Object-Oriented Programming in C++/Java",
+        "topics": [
+          "Principles of OOP",
+          "Classes and objects",
+          "Inheritance and polymorphism",
+          "Encapsulation and abstraction",
+          "Exception handling and file I/O"
+        ]
+      },
+      {
+        "chapter": "Chapter 5: Data Structures",
+        "topics": [
+          "Arrays, linked lists, stacks, and queues",
+          "Trees and binary trees",
+          "Graphs and traversals",
+          "Sorting and searching algorithms",
+          "Hashing and complexity analysis"
+        ]
+      },
+      {
+        "chapter": "Chapter 6: Operating Systems",
+        "topics": [
+          "Functions and types of operating systems",
+          "Process and thread management",
+          "Memory and storage management",
+          "File systems and input/output management",
+          "Deadlocks and scheduling"
+        ]
+      },
+      {
+        "chapter": "Chapter 7: Computer Networks",
+        "topics": [
+          "Basics of networking",
+          "OSI and TCP/IP models",
+          "IP addressing and DNS",
+          "Routing and switching concepts",
+          "Network security fundamentals"
+        ]
+      },
+      {
+        "chapter": "Chapter 8: Software Engineering",
+        "topics": [
+          "Software development life cycle (SDLC)",
+          "Models: Waterfall, Agile, Spiral",
+          "Requirements analysis and SRS",
+          "Testing and maintenance",
+          "Project documentation"
+        ]
+      },
+      {
+        "chapter": "Chapter 9: Web Technologies",
+        "topics": [
+          "HTML, CSS, and JavaScript",
+          "Client-server architecture",
+          "Basic PHP or Node.js",
+          "Form validation and user interaction",
+          "Web hosting and deployment"
+        ]
+      },
+      {
+        "chapter": "Chapter 10: Mini Project & Extensible Topics",
+        "topics": [
+          "Team-based software project",
+          "Using Git and version control",
+          "Presentation and documentation skills",
+          "Advanced electives (Python, ML, Cloud, etc.)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "PGDCA",
+    "title": "Post Graduate Diploma in Computer Applications (PGDCA)",
+    "description": "<p><strong>Post Graduate Diploma in Computer Applications (PGDCA)</strong> is a specialized postgraduate program designed for graduates who wish to enhance their knowledge and expertise in <strong>computer applications</strong> and <strong>software engineering</strong>. This course offers a deep dive into advanced topics such as database management, programming, data structures, web development, and operating systems. It is designed to equip students with both theoretical insights and practical skills required to excel in the rapidly evolving tech industry.</p> <p>The PGDCA program offers a robust curriculum that spans multiple critical areas in computing. Students start with foundational subjects like computer fundamentals, followed by specialized modules in areas like <strong>object-oriented programming</strong> using C++ or Java, database management systems (DBMS), and data structures. The course also delves into advanced concepts in <strong>software engineering</strong>, <strong>web development</strong>, and <strong>computer networks</strong>, ensuring that students are well-prepared to work in the competitive software industry.</p> <p>The course also places a strong emphasis on practical applications, offering hands-on learning through project work, where students will design, develop, and implement software solutions. By the end of the course, students will not only understand the theory behind computer applications but will also have practical experience in building real-world software systems.</p> <p>Additionally, students are introduced to emerging technologies such as <strong>cloud computing</strong>, <strong>data analytics</strong>, and <strong>machine learning</strong>, providing them with knowledge that is highly relevant in today's tech-driven world. The PGDCA program is a perfect fit for those looking to gain advanced skills and improve their employability in the software development field.</p> <p><strong>Career Opportunities after PGDCA:</strong></p> <p>Graduates of the PGDCA program can explore various career opportunities in the tech industry. Some of the potential roles include:</p> <ul> <li><strong>Software Developer</strong>: Develop and maintain software applications for different industries.</li> <li><strong>Database Administrator</strong>: Manage and optimize databases for efficient data storage and retrieval.</li> <li><strong>Web Developer</strong>: Create and maintain websites, ensuring they are responsive and functional.</li> <li><strong>System Analyst</strong>: Analyze and design software solutions to meet organizational requirements.</li> <li><strong>Network Administrator</strong>: Oversee network systems and ensure secure data communication.</li> <li><strong>Software Tester</strong>: Test software applications to ensure they meet quality standards and function as expected.</li> <li><strong>Cyber Security Specialist</strong>: Protect computer systems and networks from cyber threats and attacks.</li> <li><strong>Cloud Solutions Architect</strong>: Design cloud-based solutions for efficient data storage and management.</li> </ul> <p>PGDCA graduates also have the option of pursuing higher studies, such as an MCA (Master of Computer Applications) or certifications in emerging technologies like machine learning, cloud computing, and artificial intelligence, to further enhance their careers.</p> <p><strong>Note:</strong> This course is a <strong>certification program</strong> and is not a degree-awarding course. Our institute specializes in teaching the core subjects of PGDCA, providing in-depth knowledge of computer applications and programming. Upon completion, students will receive certification from our institute, which demonstrates their proficiency in advanced computer applications but does not equate to a formal degree program.</p>",
+    "summary": "Equips students with knowledge in software engineering, data management, and programming.",
+    "icon": "/icon/pgdca-icon.png",
+    "syllabus": [
+      {
+        "chapter": "Chapter 1: Fundamentals of Computers",
+        "topics": [
+          "Introduction to computer systems",
+          "Hardware and software components",
+          "Operating systems basics",
+          "Number systems and binary arithmetic"
+        ]
+      },
+      {
+        "chapter": "Chapter 2: Programming with C",
+        "topics": [
+          "Structure of C programs",
+          "Variables, operators, control structures",
+          "Functions and recursion",
+          "Pointers, arrays, structures, file handling"
+        ]
+      },
+      {
+        "chapter": "Chapter 3: Object-Oriented Programming with C++/Java",
+        "topics": [
+          "OOP principles and class structure",
+          "Inheritance, polymorphism, encapsulation",
+          "Exception handling",
+          "File I/O and templates (C++) or interfaces (Java)"
+        ]
+      },
+      {
+        "chapter": "Chapter 4: Database Management Systems (DBMS)",
+        "topics": [
+          "Introduction to DBMS and RDBMS",
+          "Data models and ER diagrams",
+          "Normalization and relational algebra",
+          "SQL: DDL, DML, DCL commands",
+          "Transactions and indexing"
+        ]
+      },
+      {
+        "chapter": "Chapter 5: Data Structures and Algorithms",
+        "topics": [
+          "Arrays, stacks, queues, linked lists",
+          "Trees, graphs, hash tables",
+          "Searching and sorting algorithms",
+          "Time and space complexity"
+        ]
+      },
+      {
+        "chapter": "Chapter 6: Software Engineering",
+        "topics": [
+          "Software Development Life Cycle (SDLC)",
+          "Agile and Waterfall models",
+          "Requirement analysis and UML diagrams",
+          "Software testing and maintenance",
+          "Project management tools"
+        ]
+      },
+      {
+        "chapter": "Chapter 7: Web Development",
+        "topics": [
+          "HTML, CSS, JavaScript basics",
+          "Client-server model",
+          "Frontend and backend integration",
+          "Introduction to PHP or Node.js",
+          "Database connectivity with MySQL"
+        ]
+      },
+      {
+        "chapter": "Chapter 8: Operating Systems",
+        "topics": [
+          "Types and functions of OS",
+          "Processes and threads",
+          "Memory management techniques",
+          "File systems and device management",
+          "Concurrency and deadlock"
+        ]
+      },
+      {
+        "chapter": "Chapter 9: Computer Networks",
+        "topics": [
+          "Network models: OSI and TCP/IP",
+          "LAN, WAN, Internet basics",
+          "IP addressing and subnetting",
+          "HTTP/HTTPS protocols",
+          "Basic network security"
+        ]
+      },
+      {
+        "chapter": "Chapter 10: Project Work and Emerging Technologies",
+        "topics": [
+          "Capstone software project",
+          "Documentation and version control (Git)",
+          "Basics of cloud computing or data analytics",
+          "Optional: Python, Machine Learning, Cybersecurity"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Web Development",
+    "title": "Web Development",
+    "description": "<p><strong>Web Development</strong> is a comprehensive program that will teach you to build modern, responsive websites and web applications from scratch. This course covers both <strong>front-end</strong> and <strong>back-end development</strong>, giving you the full skill set required to become a full-stack web developer.</p> <p>The course begins with the basics of <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>, teaching you how to create the structure, style, and interactivity of websites. You will learn to work with layout techniques like <strong>Flexbox</strong> and <strong>Grid</strong> for responsive designs, and understand how to manipulate the DOM with JavaScript. As you progress, you will explore advanced topics like <strong>ES6+</strong> features, promises, async/await, and API integration.</p> <p>On the back-end side, you'll dive into <strong>Node.js</strong> and <strong>Express.js</strong>, learning how to build APIs, manage routes, and handle requests and responses. You will also learn how to work with both <strong>relational</strong> (like MySQL) and <strong>NoSQL</strong> databases (like MongoDB), and integrate the front-end with the back-end to create full-stack applications.</p> <p>The course also includes a section on <strong>version control with Git</strong>, an essential tool for modern developers, helping you manage code and collaborate with other developers. Additionally, you will learn how to deploy your applications on popular platforms like <strong>GitHub Pages</strong>, <strong>Vercel</strong>, <strong>Heroku</strong>, and <strong>Netlify</strong>.</p> <p>Finally, you will apply your learning through a <strong>live project</strong>, where you will plan, build, and deploy a complete full-stack web application. You will gain hands-on experience in both front-end and back-end development, making this course perfect for anyone looking to start a career in web development or improve their existing skills.</p> <p><strong>Additional Benefits of the Web Development Program:</strong></p> <ul> <li><strong>100% Job Assistance:</strong> We provide full support in securing a job after completion of the course, including career guidance, resume building, and job placements.</li> <li><strong>Interview Preparation:</strong> Personalized interview coaching and mock interviews to help you confidently face hiring managers.</li> <li><strong>Study Material:</strong> Access to high-quality study resources, tutorials, and reference materials throughout the program.</li> <li><strong>Live Project:</strong> Work on real-world projects to apply what you’ve learned in a practical environment.</li> <li><strong>Live Training:</strong> Real-time guidance and mentorship from experienced industry professionals.</li> <li><strong>Computer Provided:</strong> The institute provides computers with necessary software and tools for hands-on practice during the course.</li> </ul> <p><strong>Note:</strong> This is a certification program, not a degree-awarding course. We specialize in teaching the essential subjects required for becoming a professional web developer and providing the tools and skills necessary to succeed in the industry.</p>",
+    "summary": "Covers front-end (HTML, CSS, JS) and back-end development with databases and servers.",
+    "icon": "/icon/web-development-icon.png",
+    "syllabus": [
+      {
+        "chapter": "Chapter 1: Introduction to Web Development",
+        "topics": [
+          "What is web development?",
+          "Frontend vs backend vs full stack",
+          "Overview of technologies used",
+          "Web browsers and how the web works"
+        ]
+      },
+      {
+        "chapter": "Chapter 2: HTML Basics",
+        "topics": [
+          "HTML document structure",
+          "Basic tags: headings, paragraphs, lists, links, images",
+          "Tables and forms",
+          "Semantic HTML"
+        ]
+      },
+      {
+        "chapter": "Chapter 3: CSS Fundamentals",
+        "topics": [
+          "CSS syntax and selectors",
+          "Styling text, colors, and backgrounds",
+          "Box model and layout (margin, padding, border)",
+          "Flexbox and Grid layout systems",
+          "Responsive design with media queries"
+        ]
+      },
+      {
+        "chapter": "Chapter 4: JavaScript Essentials",
+        "topics": [
+          "Variables and data types",
+          "Functions and control flow",
+          "DOM manipulation",
+          "Events and event handling",
+          "Basic form validation"
+        ]
+      },
+      {
+        "chapter": "Chapter 5: Advanced JavaScript",
+        "topics": [
+          "ES6+ features (let/const, arrow functions, destructuring)",
+          "Promises and async/await",
+          "Working with APIs (fetch, JSON)",
+          "Local storage and session storage"
+        ]
+      },
+      {
+        "chapter": "Chapter 6: Version Control with Git",
+        "topics": [
+          "Introduction to Git and GitHub",
+          "Basic commands (init, add, commit, push, pull)",
+          "Branching and merging",
+          "Working with repositories"
+        ]
+      },
+      {
+        "chapter": "Chapter 7: Front-End Frameworks (Optional)",
+        "topics": [
+          "Introduction to React or similar framework",
+          "Components and props",
+          "State and event handling",
+          "Routing basics"
+        ]
+      },
+      {
+        "chapter": "Chapter 8: Backend Development Basics",
+        "topics": [
+          "Introduction to Node.js and Express.js",
+          "Creating APIs and routes",
+          "Handling requests and responses",
+          "Middleware and error handling"
+        ]
+      },
+      {
+        "chapter": "Chapter 9: Working with Databases",
+        "topics": [
+          "Relational vs NoSQL databases",
+          "Introduction to MongoDB or MySQL",
+          "CRUD operations",
+          "Connecting frontend with backend and database"
+        ]
+      },
+      {
+        "chapter": "Chapter 10: Deployment and Hosting",
+        "topics": [
+          "Hosting static and dynamic websites",
+          "Using platforms like GitHub Pages, Vercel, Netlify",
+          "Deploying backend with Render, Heroku, or similar",
+          "Environment variables and security basics"
+        ]
+      },
+      {
+        "chapter": "Chapter 11: Final Project and Review",
+        "topics": [
+          "Plan and build a complete full-stack project",
+          "Use version control and deployment",
+          "Review of best practices and performance tips",
+          "Presentation and feedback"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "C Programming",
+    "title": "C Programming",
+    "description": "<p><strong>C Programming</strong> is a foundational course designed to teach you the fundamentals of the C programming language. Whether you are new to programming or looking to strengthen your understanding, this course will build your concepts from the ground up. We will start with the basic syntax and gradually move on to more advanced topics like pointers, memory management, and file handling.</p> <p>Throughout the course, I will guide you step-by-step through key concepts of <strong>C programming</strong>, ensuring that you understand each topic before moving on to the next. You'll begin with the structure of a C program, variables, and data types, and progress through operators, expressions, and control statements. I'll help you develop strong skills in <strong>procedural programming</strong>, focusing on functions, recursion, and memory management.</p> <p>After building a solid foundation in C programming, we will dive deeper into <strong>data structures</strong>. You’ll learn about arrays, strings, and structures, along with how to manipulate data efficiently using these structures. A special emphasis will be placed on <strong>pointers</strong>, a key feature of C that enables you to work with memory directly, and dynamic memory allocation, which is essential for building efficient programs.</p> <p>Additionally, we will explore file handling in C, allowing you to read and write data to files, a critical skill for many real-world applications. By the end of this course, you will have a strong understanding of C programming and the confidence to write complex programs using the techniques learned.</p> <p>This program is designed to ensure that you master <strong>C programming</strong> at a conceptual level, and then apply your knowledge by learning data structures, which are vital for problem-solving and algorithmic thinking in the software development field. I’ll teach you how to think like a programmer and equip you with the skills to handle real-world coding challenges.</p> <p><strong>What You Will Learn:</strong></p> <ul> <li>Basic syntax and structure of C programming</li> <li>Key programming concepts: functions, loops, recursion, and control statements</li> <li>In-depth understanding of arrays, strings, and structures</li> <li>How to use pointers for memory management</li> <li>File handling for reading and writing data</li> <li>Practical applications of data structures and algorithms</li> </ul> <p><strong>Course Highlights:</strong></p> <ul> <li>In-depth learning of C programming basics</li> <li>Concepts built from the ground up with hands-on exercises</li> <li>Learning key data structures, such as arrays, strings, and structures</li> <li>Practical experience in working with pointers and memory management</li> <li>File handling to work with data files effectively</li> <li>Clear and detailed explanations to ensure a solid understanding</li> </ul>",
+    "summary": "Covers syntax, functions, memory management, and procedural programming.",
+    "icon": "/icon/c-icon.png",
+    "syllabus": [
+      {
+        "chapter": "Chapter 1: Introduction to C",
+        "topics": [
+          "History and features of C",
+          "Structure of a C program",
+          "Compiling and executing a C program",
+          "C tokens, keywords, identifiers"
+        ]
+      },
+      {
+        "chapter": "Chapter 2: Variables and Data Types",
+        "topics": [
+          "Declaring and initializing variables",
+          "Data types and storage classes",
+          "Constants and literals",
+          "Type conversion and casting"
+        ]
+      },
+      {
+        "chapter": "Chapter 3: Operators and Expressions",
+        "topics": [
+          "Arithmetic, relational, logical operators",
+          "Assignment and compound assignment operators",
+          "Increment and decrement operators",
+          "Bitwise and conditional operators",
+          "Operator precedence and associativity"
+        ]
+      },
+      {
+        "chapter": "Chapter 4: Control Statements",
+        "topics": [
+          "if, if-else, nested if",
+          "switch-case",
+          "Loops (for, while, do-while)",
+          "break, continue, goto statements"
+        ]
+      },
+      {
+        "chapter": "Chapter 5: Functions",
+        "topics": [
+          "Defining and calling functions",
+          "Function arguments and return types",
+          "Call by value and call by reference",
+          "Recursion",
+          "Storage classes"
+        ]
+      },
+      {
+        "chapter": "Chapter 6: Arrays and Strings",
+        "topics": [
+          "One-dimensional and multi-dimensional arrays",
+          "String handling and functions",
+          "Character arrays vs strings"
+        ]
+      },
+      {
+        "chapter": "Chapter 7: Pointers",
+        "topics": [
+          "Introduction to pointers",
+          "Pointer arithmetic",
+          "Pointers and arrays",
+          "Pointers to functions",
+          "Dynamic memory allocation (malloc, calloc, free)"
+        ]
+      },
+      {
+        "chapter": "Chapter 8: Structures and Unions",
+        "topics": [
+          "Defining and using structures",
+          "Arrays of structures",
+          "Nested structures",
+          "Unions and differences from structures"
+        ]
+      },
+      {
+        "chapter": "Chapter 9: File Handling",
+        "topics": [
+          "Opening and closing files",
+          "Reading and writing to files",
+          "File pointers and modes",
+          "Working with text and binary files"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "name": "C++ Programming",
+    "title": "C++ Programming",
+    "description": "<p><strong>C++ Programming</strong> is an advanced course designed to help you master the concepts of <strong>object-oriented programming (OOP)</strong> with C++. In this course, you will learn the principles of OOP, such as classes, inheritance, and polymorphism, and gain a deep understanding of advanced C++ features that allow for efficient and flexible software development.</p> <p>We will start by introducing you to the fundamentals of C++, including the structure of a C++ program and key programming constructs like variables, data types, and operators. As you progress, you will dive into more complex topics such as <strong>function overloading</strong>, <strong>recursion</strong>, and memory management, helping you develop a thorough understanding of C++ programming.</p> <p>This course places a strong emphasis on object-oriented programming, beginning with the basics of <strong>classes and objects</strong>, and advancing to more advanced concepts such as inheritance, polymorphism, and operator overloading. You will learn how to manage memory dynamically using <strong>pointers</strong> and <strong>references</strong>, and how to handle file operations and exceptions.</p> <p>In addition, you'll explore the power of <strong>templates</strong> in C++, which allow you to write generic, reusable code. By the end of this course, you will have a strong grasp of advanced C++ techniques that are widely used in the development of large-scale, high-performance software applications.</p> <p><strong>What You Will Learn:</strong></p> <ul> <li>Introduction to C++ programming and key differences between C and C++</li> <li>Understanding of functions, recursion, and function overloading</li> <li>In-depth study of object-oriented programming concepts like classes, inheritance, and polymorphism</li> <li>Mastering dynamic memory management using pointers and references</li> <li>Working with file handling and binary files in C++</li> <li>Using templates to create generic code and implementing exception handling techniques</li> </ul> <p><strong>Course Highlights:</strong></p> <ul> <li>Thorough explanation of C++ syntax and programming features</li> <li>Practical exercises for mastering object-oriented programming principles</li> <li>Learning inheritance, polymorphism, and operator overloading</li> <li>Handling memory efficiently with pointers and dynamic allocation</li> <li>Mastering file handling and exception management in C++</li> <li>Introduction to templates for writing generic and reusable code</li> </ul>",
+    "summary": "Covers OOP principles, memory management, and advanced C++ features.",
+    "icon": "/icon/cpp-icon.png",
+    "syllabus": [
+      {
+        "chapter": "Chapter 1: Introduction to C++",
+        "topics": [
+          "Features of C++",
+          "Structure of a C++ program",
+          "Compiling and executing C++ code",
+          "Differences between C and C++"
+        ]
+      },
+      {
+        "chapter": "Chapter 2: Basics of C++",
+        "topics": [
+          "Variables and data types",
+          "Operators and expressions",
+          "Input and output (cin, cout)",
+          "Type casting"
+        ]
+      },
+      {
+        "chapter": "Chapter 3: Control Flow",
+        "topics": [
+          "if, if-else, switch-case",
+          "Loops (for, while, do-while)",
+          "break, continue statements"
+        ]
+      },
+      {
+        "chapter": "Chapter 4: Functions",
+        "topics": [
+          "Function definition and declaration",
+          "Default arguments",
+          "Function overloading",
+          "Inline functions",
+          "Recursion"
+        ]
+      },
+      {
+        "chapter": "Chapter 5: Object-Oriented Programming",
+        "topics": [
+          "Classes and objects",
+          "Access specifiers (public, private, protected)",
+          "Member functions and data",
+          "Constructors and destructors",
+          "Static members"
+        ]
+      },
+      {
+        "chapter": "Chapter 6: Inheritance",
+        "topics": [
+          "Types of inheritance (single, multiple, hierarchical)",
+          "Constructor behavior in inheritance",
+          "Function overriding",
+          "Virtual functions and polymorphism"
+        ]
+      },
+      {
+        "chapter": "Chapter 7: Pointers and References",
+        "topics": [
+          "Pointers in C++",
+          "Pointer to object",
+          "this pointer",
+          "References and reference variables",
+          "Dynamic memory allocation (new, delete)"
+        ]
+      },
+      {
+        "chapter": "Chapter 8: Operator Overloading",
+        "topics": [
+          "Concept of operator overloading",
+          "Overloading unary and binary operators",
+          "Friend functions"
+        ]
+      },
+      {
+        "chapter": "Chapter 9: File Handling",
+        "topics": [
+          "File streams (ifstream, ofstream, fstream)",
+          "Opening, reading, writing files",
+          "File modes and operations",
+          "Working with binary files"
+        ]
+      },
+      {
+        "chapter": "Chapter 10: Templates and Exception Handling",
+        "topics": [
+          "Function templates",
+          "Class templates",
+          "Exception handling using try, catch, throw"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "name": "React JS Development",
+    "title": "React JS Development",
+    "description": "<p><strong>React JS Development</strong> is a comprehensive course designed to help you build modern, dynamic web applications using React.js. This course covers everything from the fundamentals of React to advanced concepts such as state management, hooks, routing, and API integration, providing you with the skills needed to develop highly interactive user interfaces.</p> <p>You will begin by learning the basic concepts of React, including JSX syntax, component structure, and how to set up a development environment. As you progress, you'll master the core React concepts such as functional and class components, state management using hooks like <strong>useState</strong> and <strong>useEffect</strong>, and learn how to handle events, forms, and user input.</p> <p>The course then delves deeper into more advanced topics, such as routing with React Router, form validation with popular libraries, and state management using Context API and Redux Toolkit. You'll also explore how to work with APIs, display dynamic data in your components, and optimize your app's performance with React hooks.</p> <p>Finally, you'll learn about styling in React, including using CSS Modules, styled-components, and popular CSS frameworks like Tailwind CSS. You will also be introduced to testing techniques with Jest and React Testing Library, helping you ensure that your applications are robust and reliable.</p> <p>By the end of this course, you will have the ability to create production-ready React applications, deploy them to hosting platforms like Vercel or Netlify, and build a complete React app as a final project.</p> <p><strong>What You Will Learn:</strong></p> <ul> <li>Introduction to React and setting up the development environment</li> <li>Creating functional and class components, and handling props and state</li> <li>Managing side effects with <strong>useEffect</strong> and lifecycle methods</li> <li>Routing and navigation using React Router</li> <li>Handling forms, validation, and using form libraries like Formik and React Hook Form</li> <li>State management with Context API and Redux Toolkit</li> <li>Working with APIs to fetch and display dynamic data</li> <li>Deep dive into React hooks like <strong>useReducer</strong>, <strong>useRef</strong>, and <strong>useMemo</strong></li> <li>Styling in React with CSS Modules, styled-components, and CSS frameworks like Tailwind CSS</li> <li>Introduction to testing React apps with Jest and React Testing Library</li> <li>Deploying React applications to platforms like Vercel, Netlify, and GitHub Pages</li> <li>Building and deploying a full-featured React application as a capstone project</li> </ul> <p><strong>Course Highlights:</strong></p> <ul> <li>Complete understanding of React basics, components, and state management</li> <li>Hands-on experience with React Router, forms, and validation techniques</li> <li>In-depth knowledge of advanced React features like hooks, Redux, and custom hooks</li> <li>Expertise in styling and responsive design in React applications</li> <li>Proven techniques for testing and deploying React applications</li> <li>Capstone project for building a complete React app</li> </ul> <p>This course is ideal for anyone who wants to become proficient in React and take their front-end development skills to the next level. Whether you're a beginner or an experienced developer, you'll gain the expertise to build modern, performant, and scalable web applications.</p>",
+    "summary": "Covers React fundamentals, hooks, state management, routing, and API integration.",
+    "icon": "/icon/react-icon.png",
+    "syllabus": [
+      {
+        "chapter": "Chapter 1: Introduction to React",
+        "topics": [
+          "What is React and why use it?",
+          "Setting up development environment",
+          "Creating a new React app with Create React App (CRA)",
+          "Project structure overview",
+          "JSX syntax and rules"
+        ]
+      },
+      {
+        "chapter": "Chapter 2: React Components",
+        "topics": [
+          "Functional vs class components",
+          "Props and component communication",
+          "Reusable components",
+          "Rendering lists with `map()`",
+          "Key props in lists"
+        ]
+      },
+      {
+        "chapter": "Chapter 3: State and Events",
+        "topics": [
+          "Introduction to useState",
+          "Handling user input and events",
+          "Conditional rendering",
+          "Lifting state up",
+          "Form handling basics"
+        ]
+      },
+      {
+        "chapter": "Chapter 4: useEffect and Lifecycle",
+        "topics": [
+          "Understanding useEffect hook",
+          "Component lifecycle equivalents",
+          "Fetching data from APIs",
+          "Cleanup in useEffect"
+        ]
+      },
+      {
+        "chapter": "Chapter 5: React Router",
+        "topics": [
+          "Installing and setting up React Router",
+          "Routing with BrowserRouter, Routes, Route",
+          "Link and NavLink components",
+          "Dynamic routing and URL parameters",
+          "Nested routes and 404 pages"
+        ]
+      },
+      {
+        "chapter": "Chapter 6: Forms and Validation",
+        "topics": [
+          "Controlled vs uncontrolled components",
+          "Handling form data and submission",
+          "Validation techniques",
+          "Using form libraries (Formik, React Hook Form)"
+        ]
+      },
+      {
+        "chapter": "Chapter 7: Context API and State Management",
+        "topics": [
+          "Introduction to Context API",
+          "Creating and using context",
+          "Prop drilling vs context",
+          "Limitations of Context API"
+        ]
+      },
+      {
+        "chapter": "Chapter 8: Redux Toolkit",
+        "topics": [
+          "What is Redux Toolkit and why use it?",
+          "Setting up Redux Toolkit store",
+          "Creating slices and reducers",
+          "Dispatching actions and reading state",
+          "Using Redux with useSelector and useDispatch",
+          "Redux Toolkit Query (RTK Query) basics"
+        ]
+      },
+      {
+        "chapter": "Chapter 9: Working with APIs",
+        "topics": [
+          "Using fetch and axios for API calls",
+          "Displaying data in components",
+          "Error handling and loading states",
+          "Pagination and filtering"
+        ]
+      },
+      {
+        "chapter": "Chapter 10: React Hooks Deep Dive",
+        "topics": [
+          "Custom hooks",
+          "useReducer hook",
+          "useRef and useMemo",
+          "Performance optimization"
+        ]
+      },
+      {
+        "chapter": "Chapter 11: Styling in React",
+        "topics": [
+          "CSS Modules and inline styles",
+          "Styled-components and emotion",
+          "Tailwind CSS (optional)",
+          "Responsive design with CSS frameworks"
+        ]
+      },
+      {
+        "chapter": "Chapter 12: Testing React Apps",
+        "topics": [
+          "Introduction to testing in React",
+          "Jest and React Testing Library",
+          "Writing unit and integration tests",
+          "Mocking API calls"
+        ]
+      },
+      {
+        "chapter": "Chapter 13: Deployment and Final Project",
+        "topics": [
+          "Building production-ready React apps",
+          "Deploying to Vercel, Netlify, or GitHub Pages",
+          "Environment variables and configs",
+          "Capstone project: building a full-featured React application"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Python Programming",
+    "title": "Python Programming",
+    "description": "<p><strong>Python Programming</strong> is a comprehensive course designed for beginners to advanced learners who want to master Python for development, automation, and data-driven applications. The course covers core Python concepts, including variables, functions, control flow, object-oriented programming (OOP), and advanced topics like decorators, generators, and working with libraries.</p><p>You’ll start by understanding Python’s history and features, followed by setting up your Python environment and writing basic Python scripts. The course moves through Python basics, control flow mechanisms like loops and conditionals, and the creation of functions to streamline code. With a focus on Python’s built-in data structures, such as lists, dictionaries, and sets, you’ll gain the skills to efficiently store and manage data.</p><p><strong>Python’s modularity</strong> is a core focus, with lessons on creating and using modules and packages, as well as handling files in both text and binary formats. You'll also explore advanced exception handling techniques and dive into object-oriented programming (OOP) to build reusable and scalable code.</p><p>The course goes beyond basic Python concepts by introducing advanced topics such as iterators, generators, and lambda functions. You'll also learn how to use popular Python libraries like <strong>NumPy</strong>, <strong>Pandas</strong>, and <strong>Matplotlib</strong> for data analysis and visualization, giving you the skills needed for real-world data-driven projects.</p><p>Finally, you’ll apply your skills through mini projects like building a basic calculator, file organizer, to-do list app, and even simple games using Python libraries such as <strong>turtle</strong> or <strong>pygame</strong>.</p>",
+    "summary": "Teaches core Python, file operations, libraries, and basic web or data applications.",
+    "syllabus": [
+      {
+        "chapter": "Chapter 1: Introduction to Python",
+        "topics": [
+          "History and features of Python",
+          "Installing Python and setting up the environment",
+          "Writing and executing Python scripts",
+          "Understanding Python IDEs (IDLE, VSCode, etc.)"
+        ]
+      },
+      {
+        "chapter": "Chapter 2: Python Basics",
+        "topics": [
+          "Variables and data types",
+          "Keywords and identifiers",
+          "Input and output functions",
+          "Basic operators and expressions",
+          "Type conversion and casting"
+        ]
+      },
+      {
+        "chapter": "Chapter 3: Control Flow",
+        "topics": [
+          "Conditional statements (if, if-else, if-elif-else)",
+          "Looping constructs (for, while)",
+          "Loop control statements (break, continue, pass)"
+        ]
+      },
+      {
+        "chapter": "Chapter 4: Functions",
+        "topics": [
+          "Defining and calling functions",
+          "Function arguments (default, keyword, variable-length)",
+          "Return values",
+          "Lambda functions",
+          "Scope and lifetime of variables (global, nonlocal)"
+        ]
+      },
+      {
+        "chapter": "Chapter 5: Data Structures",
+        "topics": [
+          "Strings and string methods",
+          "Lists and list operations",
+          "Tuples and tuple operations",
+          "Sets and set operations",
+          "Dictionaries and dictionary operations",
+          "List and dictionary comprehensions"
+        ]
+      },
+      {
+        "chapter": "Chapter 6: Modules and Packages",
+        "topics": [
+          "Importing modules",
+          "Creating and using packages",
+          "Exploring built-in modules (math, random, datetime, etc.)",
+          "Using `pip` to install external packages"
+        ]
+      },
+      {
+        "chapter": "Chapter 7: File Handling",
+        "topics": [
+          "Opening and closing files",
+          "Reading and writing files (text and binary)",
+          "Working with `with` statement",
+          "File methods and file pointer operations",
+          "Handling CSV and JSON files"
+        ]
+      },
+      {
+        "chapter": "Chapter 8: Exception Handling",
+        "topics": [
+          "Introduction to exceptions",
+          "Try, except, else, finally blocks",
+          "Raising exceptions",
+          "Creating custom exceptions"
+        ]
+      },
+      {
+        "chapter": "Chapter 9: Object-Oriented Programming (OOP)",
+        "topics": [
+          "Introduction to OOP",
+          "Creating classes and objects",
+          "Instance variables and methods",
+          "Constructor (`__init__` method)",
+          "Inheritance and method overriding",
+          "Encapsulation and data hiding",
+          "Polymorphism"
+        ]
+      },
+      {
+        "chapter": "Chapter 10: Advanced Python Topics",
+        "topics": [
+          "Iterators and generators",
+          "Decorators and closures",
+          "Lambda, map, filter, reduce",
+          "Comprehensions (list, dict, set)",
+          "Working with date and time"
+        ]
+      },
+      {
+        "chapter": "Chapter 11: Working with Libraries",
+        "topics": [
+          "NumPy basics",
+          "Pandas basics",
+          "Matplotlib basics (if applicable)",
+          "Introduction to virtual environments"
+        ]
+      },
+      {
+        "chapter": "Chapter 12: Mini Projects and Practice",
+        "topics": [
+          "Basic calculator",
+          "File organizer",
+          "To-do list app",
+          "Simple game using `turtle` or `pygame` (optional)",
+          "Data analysis with CSV using Pandas"
+        ]
+      }
+    ],
+    "icon": "/icon/python-icon.png"
+  },
+  {
+    "id": "8",
+    "name": "MERN Stack Development",
+    "title": "MERN Stack Development",
+    "description": "<p><strong>MERN Stack Development</strong> is a full-stack web development course designed to help you master the four essential technologies of modern web development: MongoDB, Express.js, React.js, and Node.js. This comprehensive course covers everything from front-end development with React to back-end development using Node.js and Express, along with database management using MongoDB.</p> <p>The course begins with an introduction to the MERN stack and the setup of a complete development environment. You will gain a deep understanding of the front-end technologies, starting with React.js. Learn how to build interactive UIs, handle state, and manage events. The course will guide you through routing with React Router, form handling, and API integration with libraries like Axios and Fetch.</p> <p>As you dive deeper into back-end development, you will explore Node.js and Express.js for creating RESTful APIs, handling middleware, and managing server environments. With MongoDB, you'll learn to build NoSQL databases, handle CRUD operations, and manage data relationships using Mongoose. You'll also learn how to securely connect your front-end to the back-end, manage user authentication and authorization with JWT, and protect routes using middleware.</p> <p>The course also covers advanced topics like Redux Toolkit for state management, file uploads with Multer, and deploying your applications to production using platforms like Vercel, Netlify, and Heroku. By the end of the course, you will have the skills to design, build, and deploy a full MERN stack application.</p> <p><strong>What You Will Learn:</strong></p> <ul> <li>Introduction to the MERN stack and full-stack development workflow</li> <li>React.js fundamentals: components, props, state, hooks, routing, and API integration</li> <li>Backend development with Node.js and Express: creating RESTful APIs and handling server-side logic</li> <li>Database management with MongoDB and Mongoose: CRUD operations, schema design, and relationships</li> <li>Connecting the front-end and back-end with secure API integration</li> <li>User authentication and authorization using JWT and bcrypt</li> <li>Advanced state management with Redux Toolkit</li> <li>Handling file uploads and image previews in a web application</li> <li>Deployment of full-stack applications with Vercel, Netlify, Render, and Heroku</li> <li>Best practices for project planning, performance optimization, and security</li> <li>Capstone project: building a complete MERN stack application</li> </ul> <p><strong>Course Highlights:</strong></p> <ul> <li>Complete understanding of full-stack development with MongoDB, Express, React, and Node.js</li> <li>Hands-on experience building and deploying both front-end and back-end applications</li> <li>In-depth knowledge of advanced React, Redux Toolkit, and API integration</li> <li>Proficiency in handling authentication, file uploads, and cloud storage</li> <li>Comprehensive guide to deploying MERN stack applications to production</li> <li>Capstone project for building a complete, real-world MERN stack application</li> </ul> <p>This course is ideal for aspiring full-stack developers who want to learn how to build scalable and dynamic web applications using the MERN stack. Whether you're a beginner or an experienced developer, this course will give you the skills and confidence to tackle real-world full-stack projects.</p>",
+    "summary": "Learn to build scalable and dynamic web applications from front-end to back-end.",
+    "icon": "/icon/mern-icon.jpeg",
+    "syllabus": [
+      {
+        "chapter": "Chapter 1: Introduction to MERN Stack",
+        "topics": [
+          "What is MERN Stack?",
+          "Overview of MongoDB, Express.js, React.js, and Node.js",
+          "Setting up development environment",
+          "Folder structure and full-stack workflow"
+        ]
+      },
+      {
+        "chapter": "Chapter 2: HTML, CSS, and JavaScript Basics",
+        "topics": [
+          "HTML structure and semantics",
+          "CSS styling and layout (Flexbox, Grid)",
+          "JavaScript ES6+ features",
+          "DOM manipulation and events"
+        ]
+      },
+      {
+        "chapter": "Chapter 3: React.js Frontend Development",
+        "topics": [
+          "React project setup with Create React App",
+          "Components, props, and state",
+          "React hooks: useState, useEffect",
+          "Routing with React Router",
+          "Form handling and validation",
+          "API integration with Axios or fetch"
+        ]
+      },
+      {
+        "chapter": "Chapter 4: Node.js and Express.js Backend",
+        "topics": [
+          "Introduction to Node.js and npm",
+          "Setting up Express.js server",
+          "Creating RESTful APIs",
+          "Middleware and error handling",
+          "Environment variables with dotenv"
+        ]
+      },
+      {
+        "chapter": "Chapter 5: MongoDB and Mongoose",
+        "topics": [
+          "Introduction to NoSQL and MongoDB",
+          "Setting up MongoDB (local or cloud with Atlas)",
+          "CRUD operations with Mongoose",
+          "Schema design and relationships",
+          "Using MongoDB Compass"
+        ]
+      },
+      {
+        "chapter": "Chapter 6: Connecting Frontend and Backend",
+        "topics": [
+          "Making HTTP requests from React to Express API",
+          "Handling JSON data and responses",
+          "CORS and API security basics",
+          "State management in React"
+        ]
+      },
+      {
+        "chapter": "Chapter 7: Authentication and Authorization",
+        "topics": [
+          "User registration and login",
+          "Password hashing with bcrypt",
+          "JWT (JSON Web Tokens) authentication",
+          "Protecting routes and middleware"
+        ]
+      },
+      {
+        "chapter": "Chapter 8: Advanced React and Redux Toolkit",
+        "topics": [
+          "React Context API vs Redux",
+          "Setting up Redux Toolkit",
+          "Creating slices and reducers",
+          "Thunk and async API calls",
+          "Integration with backend authentication"
+        ]
+      },
+      {
+        "chapter": "Chapter 9: File Uploads and Image Handling",
+        "topics": [
+          "Handling file uploads with multer",
+          "Storing and retrieving files",
+          "Image previews and validation",
+          "Working with cloud storage (optional)"
+        ]
+      },
+      {
+        "chapter": "Chapter 10: Deployment and DevOps",
+        "topics": [
+          "Preparing apps for production",
+          "Frontend deployment with Vercel/Netlify",
+          "Backend deployment with Render/Heroku",
+          "Connecting frontend with deployed backend",
+          "Environment configs and version control"
+        ]
+      },
+      {
+        "chapter": "Chapter 11: Final Project and Best Practices",
+        "topics": [
+          "Planning and designing a MERN stack project",
+          "Implementation and version control (Git)",
+          "Performance optimization",
+          "Security best practices (Helmet, rate limiters)",
+          "Project deployment and presentation"
+        ]
+      }
+    ]
+  }
+]
