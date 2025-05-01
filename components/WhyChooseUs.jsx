@@ -8,10 +8,10 @@ export function WhyChooseUs() {
     <>
       <div>
         <SectionTitle subTitle="FACILITIES" title="WHY CHOOSE US"/>
-        <div className="flex gap-2 px-20 items-center">
+        <div className="flex flex-col lg:flex-row gap-2 px-5 lg:px-20 items-center">
           <div className="flex-1">
             <motion.figure
-              className="w-[500px]"
+              className="lg:w-[500px]"
               animate={{ y: [0, -20, 0] }}
               transition={{
                 duration: 3,

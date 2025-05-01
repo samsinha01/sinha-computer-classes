@@ -1,3 +1,5 @@
+'use client'
+
 import React, { useState } from 'react'
 import courseData from '../../constants/courseData'
 
@@ -53,7 +55,7 @@ function ContactForm() {
         </div>
 
         <div>
-          <label htmlFor="name" className="block mb-1">
+          <label htmlFor="name" className="block mb-1 font-semibold">
             Your Name
           </label>
           <input
@@ -67,7 +69,7 @@ function ContactForm() {
         </div>
 
         <div>
-          <label htmlFor="message" className="block mb-1">
+          <label htmlFor="message" className="block mb-1 font-semibold">
             Your Message
           </label>
           <textarea

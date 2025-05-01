@@ -4,10 +4,10 @@ import SectionTitle from "./SectionTitle";
 function HomeAbout() {
   return (
     <>
-      <section className="px-20">
+      <section className="px-5 lg:px-20">
         <SectionTitle title="ABOUT" subTitle="ABOUT US"/>
-        <div className="flex gap-2 items-center pb-10">
-          <div className="flex-1 flex flex-col gap-4">
+        <div className="flex flex-col lg:flex-row gap-2 items-center pb-10">
+          <div className="flex-1 flex flex-col gap-4 order-2 lg:order-1">
             <p className="text-justify">
               At <strong>Sinha Computer Classes</strong>, we are committed to
               delivering quality education with a strong focus on real-world
@@ -41,8 +41,8 @@ function HomeAbout() {
               skills into a strong foundation for your future career.
             </p>
           </div>
-          <div className="flex flex-1 justify-center">
-            <figure className="w-[400px] p-2 bg-white rounded-md border border-gray-200 shadow-gray-400 shadow-lg">
+          <div className="flex flex-1 justify-center mb-5 lg:mb-0 order-1 lg:order-2">
+            <figure className="lg:w-[400px] p-2 bg-white rounded-md border border-gray-200 shadow-gray-400 shadow-lg">
               <img src="about-img.png" alt="" className="w-full h-full rounded-sm" />
             </figure>
           </div>

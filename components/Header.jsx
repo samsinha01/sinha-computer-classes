@@ -5,7 +5,7 @@ import { MdAddCall } from "react-icons/md";
 
 export default function Header() {
   return (
-    <header className="py-2 px-4 md:px-6 bg-blue-950 text-white">
+    <header className="hidden md:block py-2 px-4 md:px-6 bg-blue-950 text-white">
       <div className="flex flex-col md:flex-row justify-between items-center gap-2 text-sm">
         {/* Contact Info */}
         <ul className="flex gap-4 md:gap-8 items-center">
