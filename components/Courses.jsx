@@ -6,7 +6,7 @@ import courseData from "@/constants/courseData";
 function Courses() {
     return (
         <div className='courses-section'>
-            <div className="flex px-20 gap-2 flex-wrap justify-evenly bg-[url('/course-section-bg-img.jpg')] bg-cover bg-center">
+            <div className="flex px-7 lg:px-20 gap-2 flex-wrap justify-evenly bg-[url('/course-section-bg-img.jpg')] bg-cover bg-center">
                 <CourseCard data={[...courseData]}/>
             </div>
         </div>
