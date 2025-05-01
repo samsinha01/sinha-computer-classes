@@ -10,7 +10,7 @@ import { WhyChooseUs } from "@/components/WhyChooseUs";
 export default function Home() {
   return (
     <>
-      <main className="bg-[#FAF3E0] pb-10">
+      <main className="bg-[#FAF3E0] pb-10 overflow-x-hidden">
         <Banner img="home-banner-1.png" />
         <HomeAbout />
         <Courses />
