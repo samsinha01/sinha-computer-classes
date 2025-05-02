@@ -24,7 +24,7 @@ function Page({ params }) {
   return (
     <section>
       <figure className="">
-        <img src="/banner-dummy.jpg" alt="Banner" className="w-full" />
+        <img src="/banner-2.png" alt="Banner" className="w-full" />
       </figure>
 
       <main className="w-[92%] mx-auto">
