@@ -105,13 +105,15 @@ function Footer() {
               Contact Us
             </h3>
             <ul className="space-y-3">
-              <li className="flex items-start">
+              <li className="">
+                <a href="https://maps.app.goo.gl/ctqHuYxzkPvjdpeR7" className='flex items-start'>
                 <FaMapMarkerAlt className="mt-1 mr-3 flex-shrink-0 text-blue-400" />
                 <span className="text-gray-300">Behind City Center Mall, Parshuram ward, Bhatapara (C.G)</span>
+                </a>
               </li>
               <li className="flex items-center">
                 <FaPhone className="mr-3 text-blue-400" />
-                <a href="tel:+919876543210" className="text-gray-300 hover:text-blue-400 transition-colors duration-300">
+                <a href="tel:+919770661844" className="text-gray-300 hover:text-blue-400 transition-colors duration-300">
                   +91 9770661844
                 </a>
               </li>
