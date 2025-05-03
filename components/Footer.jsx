@@ -107,18 +107,12 @@ function Footer() {
             <ul className="space-y-3">
               <li className="flex items-start">
                 <FaMapMarkerAlt className="mt-1 mr-3 flex-shrink-0 text-blue-400" />
-                <span className="text-gray-300">123 Education Street, Learning City, 560001</span>
+                <span className="text-gray-300">Behind City Center Mall, Parshuram ward, Bhatapara (C.G)</span>
               </li>
               <li className="flex items-center">
                 <FaPhone className="mr-3 text-blue-400" />
                 <a href="tel:+919876543210" className="text-gray-300 hover:text-blue-400 transition-colors duration-300">
-                  +91 98765 43210
-                </a>
-              </li>
-              <li className="flex items-center">
-                <FaEnvelope className="mr-3 text-blue-400" />
-                <a href="mailto:info@example.com" className="text-gray-300 hover:text-blue-400 transition-colors duration-300">
-                  info@example.com
+                  +91 9770661844
                 </a>
               </li>
             </ul>
@@ -128,7 +122,7 @@ function Footer() {
         {/* Copyright */}
         <div className="border-t border-gray-700 mt-8 pt-6 text-center text-gray-400">
           <p>
-            &copy; {currentYear} Computer Education Institute. All Rights Reserved.
+            &copy; {currentYear} Sinha Computer Classes. All Rights Reserved.
           </p>
         </div>
       </div>
