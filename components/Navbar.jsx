@@ -14,7 +14,7 @@ function Navbar() {
         <div>
           <figure className="w-[120px]">
             <a href="/">
-              <img src="/logo.svg" alt="Logo" className="w-full" />
+              <img src="/logo.png" alt="Logo" className="w-full" />
             </a>
           </figure>
         </div>
