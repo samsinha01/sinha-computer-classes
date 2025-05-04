@@ -2,6 +2,7 @@
 import { IoIosMail, IoMdCall } from "react-icons/io";
 import { FaInstagram, FaWhatsapp } from "react-icons/fa";
 import { MdAddCall } from "react-icons/md";
+import { Facebook } from "@mui/icons-material";
 
 export default function Header() {
   return (
@@ -24,13 +25,23 @@ export default function Header() {
         {/* Social Icons */}
         <div className="flex gap-4 mt-2 md:mt-0">
           <a
-            href="https://instagram.com" // Replace with actual link
+            href="https://www.instagram.com/sinha_computer_classes?igsh=MXF1eDg5MnRubmRxMQ==" 
             target="_blank"
             rel="noopener noreferrer"
             aria-label="Instagram"
           >
             <FaInstagram className="text-xl text-pink-400 hover:scale-110 transition" />
           </a>
+
+          <a
+            href="https://www.facebook.com/share/151oKcZucjd/" 
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="Facebook"
+          >
+            <Facebook className="text-xl text-blue-600 hover:scale-110 transition" />
+          </a>
+          
           <a
             href="https://wa.me/919770661844"
             target="_blank"

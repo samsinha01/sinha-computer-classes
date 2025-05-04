@@ -19,10 +19,8 @@ function Footer() {
   ];
 
   const socialLinks = [
-    { icon: <FaFacebook />, url: "#", name: "Facebook" },
-    { icon: <FaTwitter />, url: "#", name: "Twitter" },
-    { icon: <FaInstagram />, url: "#", name: "Instagram" },
-    { icon: <FaLinkedin />, url: "#", name: "LinkedIn" },
+    { icon: <FaFacebook />, url: "https://www.facebook.com/share/151oKcZucjd/", name: "Facebook" },
+    { icon: <FaInstagram />, url: "https://www.instagram.com/sinha_computer_classes?igsh=MXF1eDg5MnRubmRxMQ==", name: "Instagram" },
   ];
 
   return (
