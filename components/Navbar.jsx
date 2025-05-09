@@ -68,7 +68,7 @@ function Navbar() {
             <Link href="/contact" className="block py-2 px-3 border-b hover:bg-gray-200" onClick={() => setMenuOpen(false)}>Contact Us</Link>
           </li>
           <li className='mt-5'>
-            <a href="tel:+919770661844" className="block text-center bg-blue-600 py-2 px-3 text-white rounded-sm" onClick={() => setMenuOpen(false)}>
+            <a href="tel:+91 9770661844" className="block text-center bg-blue-600 py-2 px-3 text-white rounded-sm" onClick={() => setMenuOpen(false)}>
               Call Us Now
             </a>
           </li>

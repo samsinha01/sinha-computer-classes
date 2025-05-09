@@ -3,7 +3,10 @@ import React from 'react'
 
 function About() {
   return (
-    <HomeAbout />
+    <>
+      <Banner img="/banner-1.png" />
+      <HomeAbout />
+    </>
   )
 }
 

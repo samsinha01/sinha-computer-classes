@@ -3,7 +3,10 @@ import React from 'react'
 
 function page() {
   return (
-    <Courses />
+    <>
+      <Banner img="/banner-1.png" />
+      <Courses />
+    </>
   )
 }
 

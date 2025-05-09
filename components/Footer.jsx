@@ -104,7 +104,7 @@ function Footer() {
             </h3>
             <ul className="space-y-3">
               <li className="">
-                <a href="https://maps.app.goo.gl/ctqHuYxzkPvjdpeR7" className='flex items-start'>
+                <a href="https://maps.app.goo.gl/jRga9bhuFFksJ9so8" className='flex items-start'>
                 <FaMapMarkerAlt className="mt-1 mr-3 flex-shrink-0 text-blue-400" />
                 <span className="text-gray-300">Behind City Center Mall, Parshuram ward, Bhatapara (C.G)</span>
                 </a>
