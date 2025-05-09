@@ -1,3 +1,4 @@
+import Banner from '@/components/Banner'
 import HomeAbout from '@/components/HomeAbout'
 import React from 'react'
 
