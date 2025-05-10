@@ -5,7 +5,7 @@ import React from 'react'
 function page() {
   return (
     <>
-      <Banner img="/banner-1.png" />
+      <Banner img="/banner-3.png" />
       <Courses />
     </>
   )
